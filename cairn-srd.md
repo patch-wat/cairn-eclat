@@ -220,6 +220,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
 ## Blood (2d6)
+
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2-3    | 4-5  |   6-8   | 9-10 | 11-12      |
@@ -240,17 +241,18 @@ A pauper, born of violence and struggle. Born to the extremely poor, or those wh
 A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or you're deeply loyal to an obstensibly independent institution.
 
 #### Backgrounds (d12)
+
 |||||||||
 |------|--------------------|---|--------------|--|------------|----|-------------|
 |1     |Agent of the Crown  |4  |Wagoner       |7 |Barbarian   |10  |Horse trader |
 |2     |Agent of the Church |5  |Hunter        |8 |Slave       |11  |Vetreanarian |
 |3     |Farmer              |6  |Line Infantry |9 |Thief-taker |12  |Nomad        |
 
-
 ### Green
 An artisan, born to humble folk. You had as ordinary an upbringing as any.
 
 #### Backgrounds (d12)
+
 |||||||||
 |------|-----------|---|--------------|--|------------|----|-------------|
 |1     |Alchemist  |4  |Barber        |7 |Tailor      |10  |Shopkeeper   |
@@ -262,6 +264,7 @@ An artisan, born to humble folk. You had as ordinary an upbringing as any.
 A burgher, born to new wealth and new ideas. You (or your parents) owned your practice, or owned the practices of others and were independently wealthy.
 
 #### Backgrounds (d12)
+
 |||||||||
 |------|-----------|---|--------------|--|------------  |----|-------------|
 |1     |Soliciter  |4  |Officer        |7 |Entrepreneur |10  |Politician   |
@@ -273,6 +276,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 
 
 #### Backgrounds (d12)
+
 |||||||||
 |------|-----------|---|----------|--|------------|----|-------------|
 |1     |Socialite  |4  |Duelist   |7 | Academic   |10  |Astrologer   |
