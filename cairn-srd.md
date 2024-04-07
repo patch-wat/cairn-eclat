@@ -4,16 +4,16 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Éclat System Reference Document (v.1.0)
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Éclat** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is based off [Cairn](https://cairnrpg.com).  
+Peruse the [repo](https://github.com/patch-wat/Éclat-eclat)
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Éclat** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as mercanaries and spies for hire for the rich and powerful of the decaying cities of a once great empire.
 
 <details close markdown="block">
   <summary id="index">
@@ -26,7 +26,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 ## Overview
 
-**Cairn** was written with the following design philosophies in mind:
+**Éclat** was written with the following design philosophies in mind:
 
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
@@ -89,7 +89,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
 - Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- Use Treasure as a lure to exotic locations or dangerous jobs under the protection of intimidating foes.
 
 ### Choice
 - Give players a solid choice to force outcomes when the situation lulls.
@@ -161,7 +161,7 @@ Expand For Example
 </details>
 
 ### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/Éclat-srd#scars-1) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -179,7 +179,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Grimjellies**](#Grimjellies-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
@@ -237,7 +237,7 @@ A pauper, born of violence and struggle. Born to the extremely poor, or those wh
 |3      |Charlatan |6          |Line Infantry |9 |Actor      |12  |Gambler   |
 
 ### Clear
-A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or your deeply loyal to an obstensibly independent institution.
+A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or you're deeply loyal to an obstensibly independent institution.
 
 #### Backgrounds (d12)
 |||||||||
@@ -259,7 +259,7 @@ An artisan, born to humble folk. You had as ordinary an upbringing as any.
 
 
 ### Silver
-A burgher, born to new wealth and new ideas. You (or your parents) owned your practice, or own the practices of others and were independently wealthy.
+A burgher, born to new wealth and new ideas. You (or your parents) owned your practice, or owned the practices of others and were independently wealthy.
 
 #### Backgrounds (d12)
 |||||||||
@@ -441,11 +441,11 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Grimjelly |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Grimjellies (d100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -578,7 +578,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |Elegant Sword (d8)                       |
 |Recurve Bow (d8)                         |
 |Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
+|Grimjelly (_Charm_ or _Detect Magic_)    |
 |Golden Flute                             |
 |Air Bladder                              |
 
@@ -621,8 +621,8 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |-----------------------------------------|
 |Fizzled Staff (d8, bulky)                |
 |Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
+|Grimjelly (random spell)                 |
+|Grimjelly (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
 |Leycap (x2, see **Relics**)              |
 
@@ -707,19 +707,21 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+**Grimoire Jellyfish** (or **Grimjellies**) are a living creatues fround on deep in the oceans of certain worlds. Repeatedly exposing a **Grimjellies** to dreams will allow them to replicate a magical effect.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Each **Grimjellies** contain a single spell and take up one slot. It takes years to grow one with suffient magical power to grow manifest a spell.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+**Grimjellies** sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or working only when held in moonlight.
 
-**Scrolls** are similar to Spellbooks, however:
+**Grimjellies** will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+
+**Scrolls**, made from their ink are similar to **Grimjellies**, however:
 - They do not take up an inventory slot.
 - They do not cause fatigue.
 - They disappear after one use.
 
 ### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a **Grimjelly** in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Grimjelly, injury, and even death.
 
 ### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
@@ -786,7 +788,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/Éclat-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -827,10 +829,10 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+- Prize Grimjellies; willing to trade.
 
 **Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Grimjelly (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
@@ -845,7 +847,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Grimjelly (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
@@ -1026,8 +1028,8 @@ Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than thei
 **HEALING**  
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**GRIMJELLIES**  
+Grimjellies contain a single spell and take up one item slot. Anyone can cast a spell by holding a Grimjelly in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
 
 Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
 
@@ -1043,7 +1045,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/Éclat-srd#scars-1) table.
  
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
