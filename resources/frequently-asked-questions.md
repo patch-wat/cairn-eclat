@@ -420,4 +420,4 @@ Expand For Example
 </details>
 
 
-<script src="/js/expand-all.js"></script>
+<script src="/cairn-eclat/js/expand-all.js"></script>
