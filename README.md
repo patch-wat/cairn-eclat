@@ -5,14 +5,4 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
-
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
-
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
-
-<p></p>
-
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+Éclat is an [cairnhack](https://cairnrpg.com/) set in a vaguely early modern period magipunk multiverse. Longterm and widespread use of sentient magic, caused by exposing a particular speicies of jellyfish to human dreams. By this point the magic used to travel between earths is ancient. The Tynic Empire has for millenia ruled the known Geos, but now, during a centuries long interregun, people now whisper the name of Siggerick LVI as Siggerick the Last. The magics used to read the future, which were once so clear, are now foggy, and the Imperial Princesses cannot select a replacement from among the myriad warlords who sprout like weeds from once peaceful worlds. New politics and new cults spread like wildfire, and people wonder if from the coals will rise new utopias or if it will simply settle into ashes.
