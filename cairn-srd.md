@@ -711,9 +711,9 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-**Grimoire Jellyfish** (or **Grimjellies**) are a living creatues fround on deep in the oceans of certain worlds. Repeatedly exposing a **Grimjellies** to dreams will allow them to replicate a magical effect.
+**Grimoire Jellyfish** (or **Grimjellies**) are a living creatues fround on deep in the oceans of certain worlds. Repeatedly exposing a **Grimjelly** to dreams will allow them to replicate a magical effect.
 
-Each **Grimjellies** contain a single spell and take up one slot. It takes years to grow one with suffient magical power to grow manifest a spell.
+Each **Grimjelly** contain a single spell and take up one slot. It takes years to grow one with suffient magical power to grow manifest a spell.
 
 **Grimjellies** sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or working only when held in moonlight.
 
