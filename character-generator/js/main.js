@@ -1,6 +1,22 @@
 roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
+
+const bloodSummary = {
+  "Blue": "a noble, born in the lap of privledge and power",
+  "Crimson": "a pauper, born of violence and struggle",
+  "Green": "an artisan, born to humble folk",
+  "Silver": "a burgher, born to new wealth and new ideas",
+  "Clear": "an outsider, raised outside of the conserns of social class"
+}
+
+const blood = generate_text("blood");
+const bg = generate_text(blood+"-bg");
+const description = generate_text('traits');
+const bloodDesc = `You are ${blood}-blooded; ${bloodSummary[blood]}`
+const intro = `You are <i> ${generate_text("name")} ${generate_text("surname")}</i>`
+const background = `formerly ${generate_text(blood+"-bg")}`
+const character = `${intro}, ${background}. ${bloodDesc}. ${description}`;
 const armor = generate_text("armor");
 const helmet = generate_text("helmet");
 const tool = generate_text("tool");
@@ -39,7 +55,7 @@ armorValue.forEach((item) => {
 });
 
 console.log(total);
-$("#character").html(generate_text("character"));
+$("#character").html(character);
 $("#age").html(roll(20) + roll(20) + 10);
 $("#hp").html(roll(6));
 ["str", "dex", "wil"].forEach((item, i) => {

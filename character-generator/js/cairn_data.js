@@ -1,5 +1,5 @@
-gen_data['character'] = [
-  'You are <i> {name} {surname}</i>, formerly {background}. You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner and wear {clothing} clothing. You are {vice} yet {virtue}, and are generally regarded as {reputation}. You have had the misfortune of being {misfortune}.'
+gen_data['traits'] = [
+  'You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner and wear {clothing} clothing. You are {vice} yet {virtue}, and are generally regarded as {reputation}. You have had the misfortune of being {misfortune}.'
 ]
 
 gen_data['name'] = [
@@ -68,8 +68,83 @@ gen_data['surname'] = [
 , 'Wolder'
 ]
 
+
+gen_data["Crimson-bg"] = [
+  "a vagrant",
+  "a burglar",
+  "a clerk",
+  "a charlatan",
+  "a smuggler",
+  "a line infantry",
+  "a bricklayer",
+  "a mobster",
+  "an actor",
+  "a pirate",
+  "a chandler",
+  "a gambler",
+]
+
+gen_data["Clear-bg"] = [
+  "an agent of the crown",
+  "an agent of the church",
+  "a farmer",
+  "a wagoner",
+  "a line infantry",
+  "a hunter",
+  "a barbarian",
+  "a slave",
+  "a thief-taker",
+  "a horse trader",
+  "a vetranarian",
+  "a nomad",
+]
+
+gen_data["Green-bg"] = [
+  "a line infantry",
+  "an alchemisst",
+  "a mechanic",
+  "a carpenter",
+  "a surgeon",
+  "a stonemason",
+  "a tailor",
+  "a chef",
+  "a baker",
+  "a shopkeeper",
+  "a servant",
+  "a perfumer",
+]
+
+gen_data["Silver-bg"] = [
+  "a soliciter",
+  "a doctor",
+  "an officer",
+  "a banker",
+  "a silversmith",
+  "a landlord",
+  "an entrepreneur",
+  "an artist",
+  "an engineer",
+  "a politician",
+  "a publisher",
+  "a merchant",
+]
+
+gen_data["Blue-bg"] = [
+  "a socialite",
+  "an artist",
+  "a falconer",
+  "a duelist",
+  "a writer",
+  "an officer",
+  "an academic",
+  "a coral lord",
+  "an equestrian ",
+  "an astrologer",
+  "an antiquarian",
+  "a student",
+]
 gen_data['background'] = [
-  'an alchemist'
+  'an alchemist',
 ,  'a blacksmith'
 ,  'a butcher'
 ,  'a burglar'
@@ -224,6 +299,15 @@ gen_data['misfortune'] = [
 gen_data['equipment'] = [
   'armor: {armor}<br>Helmet/Shield: {helmet}<br>Weapons: {weapons}<br>Items: {tool,gear,trinket}<br>Bonus item: {bonus}'
 ]
+
+gen_data['blood'] = {
+  "1-3": "Crimson",
+  "4-10": "Clear",
+  "11-26": "Green",
+  "27-33": "Silver",
+  "34-36": "Blue",
+}
+
 gen_data['armor'] = {
   '1-3': 'No upper body protection',
   '4-14': 'Brigandine (1 Armor, bulky)',
