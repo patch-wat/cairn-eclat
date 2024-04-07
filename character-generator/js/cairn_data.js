@@ -104,7 +104,7 @@ gen_data["Green-bg"] = [
   "an alchemisst",
   "a mechanic",
   "a carpenter",
-  "a surgeon",
+  "a barber",
   "a stonemason",
   "a tailor",
   "a chef",

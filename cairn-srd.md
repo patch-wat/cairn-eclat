@@ -142,8 +142,8 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Name, Blood, Background & Traits
+First, choose or roll your PC’s [**name**](#name-d20), and [**blood**](#blood-2d6), or social class, from their respective tables. Then select, roll or make up a background using the tables of suggested backgrounds for their blood as a guide. A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -187,7 +187,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Name & Background (d20)
+## Name (d20)
 
 #### Female Names
 
@@ -219,17 +219,65 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+## Blood (2d6)
+| | | | | |
+| :-----: | :--: | :-----: | :--: | :--: |
+|    2-3    | 4-5  |   6-8   | 9-10 | 11-12      |
+| Crimson | Clear | Green | Silver | Blue |
+
+### Crimson
+A pauper, born of violence and struggle. Born to the extremely poor, or those who have to exist outside the law. Growing up in this life has been difficult but has made you hardy
+
+#### Backgrounds (d12)
 
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|------|-----------|-----------|--------------|--|-----------|----|----------|
+|1     |Vagrant    |4          |Smuggler      |7 |Bricklayer |10  |Pirate    |
+|2     |Burglar    |5          |Clerk         |8 |Mobster    |11  |Chandler  |
+|3      |Charlatan |6          |Line Infantry |9 |Actor      |12  |Gambler   |
 
-<p></p>
+### Clear
+A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or your deeply loyal to an obstensibly independent institution.
+
+#### Backgrounds (d12)
+|||||||||
+|------|--------------------|---|--------------|--|------------|----|-------------|
+|1     |Agent of the Crown  |4  |Wagoner       |7 |Barbarian   |10  |Horse trader |
+|2     |Agent of the Church |5  |Hunter        |8 |Slave       |11  |Vetreanarian |
+|3     |Farmer              |6  |Line Infantry |9 |Thief-taker |12  |Nomad        |
+
+
+### Green
+An artisan, born to humble folk. You had as ordinary an upbringing as any.
+
+#### Backgrounds (d12)
+|||||||||
+|------|-----------|---|--------------|--|------------|----|-------------|
+|1     |Alchemist  |4  |Barber        |7 |Tailor      |10  |Shopkeeper   |
+|2     |Mechanic   |5  |Stonemason    |8 |Chef        |11  |Servant      |
+|3     |Carpenter  |6  |Line Infantry |9 |Baker       |12  |Perfumer     |
+
+
+### Silver
+A burgher, born to new wealth and new ideas. You (or your parents) owned your practice, or own the practices of others and were independently wealthy.
+
+#### Backgrounds (d12)
+|||||||||
+|------|-----------|---|--------------|--|------------  |----|-------------|
+|1     |Soliciter  |4  |Officer        |7 |Entrepreneur |10  |Politician   |
+|2     |Doctor     |5  |Silversmith    |8 |Artist       |11  |Publisher    |
+|3     |Banker     |6  |Landlord       |9 |Engineer     |12  |Merchant     |
+
+### Blue
+A noble, born in the lap of privledge and power. While not all nobles are wealthy, they most certainly must act like they are. Working with your hands was socially taboo, if not outright illegal.
+
+
+#### Backgrounds (d12)
+|||||||||
+|------|-----------|---|----------|--|------------|----|-------------|
+|1     |Socialite  |4  |Duelist   |7 | Academic   |10  |Astrologer   |
+|2     |Arist      |5  |Writer    |8 | Coral Lord |11  |Antiquarian  |
+|3     |Falconer   |6  |Officer   |9 | Equestrian |12  |Student      |
 
 ## Character Traits (d10)
 
@@ -635,11 +683,14 @@ No one can have more than 3 Armor.
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table.
+
+#### Blood and class conflict
+Events in the fiction may help or harm relations between the social classes. For members of the same or an allied Bloods you may add 1d4 to the results of a reaction roll. For members of enemy Bloods, subtract 1d4.
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
+|    ≤2    | 3-5  |   6-8   | 9-11 | 12+      |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
