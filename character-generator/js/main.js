@@ -30,7 +30,7 @@ const deformities = [...new Set([
   generate_text("magical deformities"),
 ])].join(". ")
 
-const character = `${intro}, ${background}. ${bloodDesc}. ${description}. ${deformities}`;
+const character = `${intro}, ${background}. ${bloodDesc}. ${description}`;
 
 let allItems = [];
 allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
@@ -63,6 +63,7 @@ armorValue.forEach((item) => {
 
 console.log(total);
 $("#character").html(character);
+$("#deformities").html(deformities);
 $("#age").html(roll(20) + roll(20) + 10);
 $("#hp").html(roll(6));
 ["str", "dex", "wil"].forEach((item, i) => {
