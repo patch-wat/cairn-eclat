@@ -16,7 +16,6 @@ const description = generate_text('traits');
 const bloodDesc = `You are ${blood}-blooded; ${bloodSummary[blood]}`
 const intro = `You are <i> ${generate_text("name")} ${generate_text("surname")}</i>`
 const background = `formerly ${generate_text(blood+"-bg")}`
-const character = `${intro}, ${background}. ${bloodDesc}. ${description}`;
 const armor = generate_text("armor");
 const helmet = generate_text("helmet");
 const tool = generate_text("tool");
@@ -24,6 +23,14 @@ const gear = generate_text("gear");
 const trinket = generate_text("trinket");
 const weapons = generate_text("weapons");
 const bonus = generate_text("bonus");
+
+const deformities = [...new Set([
+  generate_text("magical deformities"),
+  generate_text("magical deformities"),
+  generate_text("magical deformities"),
+])].join(". ")
+
+const character = `${intro}, ${background}. ${bloodDesc}. ${description}. ${deformities}`;
 
 let allItems = [];
 allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);

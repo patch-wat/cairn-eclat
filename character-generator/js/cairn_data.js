@@ -2,6 +2,29 @@ gen_data['traits'] = [
   'You have {physique} physique, {skin} skin, {hair} hair, and {face} face. You speak in a {speech} manner and wear {clothing} clothing. You are {vice} yet {virtue}, and are generally regarded as {reputation}. You have had the misfortune of being {misfortune}.'
 ]
 
+gen_data["magical deformities"] = [
+ "You have horns growing from your head",
+ "Patches of scales cover your body",
+ "You have a tail",
+ "Your hands and feat are beast like claws",
+ "You have a beak in place of a mouth",
+ "Antenae sprout from you head",
+ "A reptilian tongue flicks from your mouth",
+ "A supernatural aura surrounds you constantly",
+ "Patches of fur cover your body",
+ "Your cainines have been replaces by a pair of fangs",
+ "You have ears like an animal",
+ "You have the pointed ears of the fair folk",
+ "You have tentacles growing from your person",
+ "You skin glows with biolumenescent patterns",
+ "Crystals grow from parts of your body",
+ "You have the webbed hand and feat of a frog",
+ "Patches of feathers cover your body",
+ "Antlers sproout from your head",
+ "You have spots on your skin",
+ "You have stripes on your skin"
+]
+
 gen_data['name'] = [
 'Agune'
 , 'Beatrice'

@@ -145,7 +145,9 @@ Players trust one another to engage with the shared setting, character goals, an
 #### Name, Blood, Background & Traits
 First, choose or roll your PC’s [**name**](#name-d20), and [**blood**](#blood-2d6), or social class, from their respective tables. Then select, roll or make up a background using the tables of suggested backgrounds for their blood as a guide. A PC’s background informs their potential knowledge and skills.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables."
+
+Next, as longterm exposure to magic has irrevocably warped the biology of everybody in written history, you may roll up to 3 items on the [Magical Deformities Table](#magical-deformities-d20). Don't feel self-conscious, everybody has them and with the right decorations they might even be quite fetching.
 
 Finally, roll for their **age** (2d20+10).
 
@@ -385,6 +387,15 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 | 4           | Condemned   | 9    | Disowned    |
 | 5           | Cursed      | 10   | Exiled      |
 
+#### Magical Deformities (d20)
+
+|||||||||
+|------|--------|---|-----------------|---|-----------------------|---|------------|
+|1     |Horns   |6  |Antenae          |11 |Animal Ears            |16 |Feathers    |
+|2     |Scales  |7  |Reptilian tongue |12 |Pointed Ears           |17 |Antlers     |
+|3     |Tail    |8  |Supernatural Aura|13 |Biolumenecent Patterns |18 |Spots       |
+|4     |Paws    |9  |Fur              |14 |Crystaline Protrusions |19 |Tenatacles  |
+|5     |Beak    |10 |Fangs            |15 |Webbed Hands and Feat  |20 |Stripes     |
 <p></p>
 
 ## Starting Gear (d20)
