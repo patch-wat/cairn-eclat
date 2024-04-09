@@ -419,7 +419,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: |------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Dagger, Cudgel, Staff | Sword, Hammer, Axe | Pistol, Musket,  | Halberd, War Hammer, Battleaxe |
 
 #### Expeditionary Gear
 
@@ -500,21 +500,22 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)            |10   |
 |Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Leather Boots (+1 Armor)          |15   |
+|Overcoat (1 Armor, bulky)  |20   |
+|Cuirass (2 Armor, bulky)       |60   |
 
 #### Weapons
 
 | |     |
 |-----------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|Spear, Smallsword, Hammer, Axe, Rapier, etc. (d8 damage)           |10   |
+|Halberd, War Pick, Saber, etc. (d10 damage, bulky)  |20   |
+|Pistol (d4 damage)                                          |20    |
+| Bow (d6 damage, bulky)                  |20
+|Carbine (d6 damage, loud)                                     |20   |
+|Musket w/ bayonet (d6 damage, bulky, loud) | 30
+|Rifle w/ bayonet (d8/d6 damage, bulky, loud)                  |50   |
 
 #### Gear & Tools
 
@@ -553,95 +554,96 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 
 ## Optional Gear Packages
 
-#### Cleric
+#### Musketeer
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Musket w/ Bayonet (d6, bulky, loud)           |
+| Overcoat (1 Armor, bulky)        |
+| Leather Boots (+1 Armor)              |
+| Military Hat                |
+| War Trauma (_Phobia_ after a 10 minute conversionation)
 
-#### Dowser
+#### Duelist
 
 |                                           |
 |-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+|Smallsword (d8)                            |
+|Pistol (d4, loud )                         |
+|Dueling Coat (+1 Armor)                    |
+|A Set of Billiard Balls                    |
+|A Guide to Hot-air balloons                |
+|Lucky Locket (_Shield_ once per day)       |
 
-#### Dwarf
+#### Arcane Artilleryman
 
 ||
 |-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
+|Rammer (d6)                          |
+|Pistol (d4, Loud)
+|Ring of Endless Cannonballs (100 charges), summons cannonballs               |
+|Canned Canon, (1 charge) Summons a cannon                                   |
 |Jar of Forest Ants                       |
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
-#### Elf
+#### Ringmaster
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Grimjelly (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|Whip (d6)                                |
+|Bullhorn                                 |
+|Study Coattails (1 Armor)                |
+|Grimjelly (_Charm_ or _Illusion_)        |
+|A Pocketwatch                            |
+|Top Hat                                  |
 
-#### Fighter
+#### Perfumer
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
+|Distillation Apparatus                 |
+|Poison Spray (d6, blast) x3            |
+|Copious Research Notes                 |
+|Smelling salts                         |
+|Florist Knife (d6)                     |
 |Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Fresh Cut flowers                      |
 
-#### Friar
+#### Opera Singer
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|Hammer (d8)                    |
+|Practical Costuming (+1 Armor) |
+|A hand mirror                  |
+|A wine glass                   |
+|Songbook                       |
+|A killer voice (_Knock_ after 3 minutes) |
 
-#### Knight
+#### Cuirassier
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
+| Saber (d10, bulky)     |
+| Cuirass (2 Armor, bulky) |
+| Dragoon Helmet (+1 Armor) |
+| Carbine (d6, loud)        |
 | Manacles                   |
 | Fine Rope                  |
 
-#### Magic User
+#### Coral Lord
 
 ||
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
+|Coral Club (d8, bulky)                   |
+|Ritual Dagger (d6)                       |
 |Grimjelly (random spell)                 |
 |Grimjelly (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
+|Pocketed Cloak                           |
 |Leycap (x2, see **Relics**)              |
 
-#### Thief
+#### Burgler
 
 ||
 |-----------------------------------------|
@@ -652,11 +654,11 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |Grappling Hook                           |
 |Metal File                               |
 
-#### Ranger
-
+#### Woodsman
 ||
 |------------------------------------------|
 |Longbow (d8, bulky)                       |
+|Rifle (d8/d6, bulky, loud)                |
 |Hatchet (d6)                              |
 |Padded Leathers (1 Armor)                 |
 |Large Trap                                |
@@ -709,7 +711,7 @@ Events in the fiction may help or harm relations between the social classes. For
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+Enemies and Hirelings must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
