@@ -583,9 +583,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |Pistol (d4, Loud)
 |Ring of Endless Cannonballs (100 charges), summons cannonballs               |
 |Canned Canon, (1 charge) Summons a cannon                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
+
 
 #### Ringmaster
 
