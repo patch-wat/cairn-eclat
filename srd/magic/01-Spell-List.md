@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Magic and Magical Items
-nav_order: 8
+parent: Magic and Magical Items
+title: Spell List
+nav_order: 1
 ---
 
 # Spell List
