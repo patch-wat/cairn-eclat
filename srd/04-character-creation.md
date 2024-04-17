@@ -12,7 +12,7 @@ First, choose or roll your PC’s [**name**](#name-d20), and [**blood**](#blood-
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables."
 
-Next, as longterm exposure to magic has irrevocably warped the biology of everybody in written history, you may roll up to 3 items on the [Magical Deformities Table](#magical-deformities-d20). Don't feel self-conscious, everybody has them and with the right decorations they might even be quite fetching.
+Next, as long-term exposure to magic has irrevocably warped the biology of everybody in written history, you may roll up to 3 items on the [Magical Deformities Table](#magical-deformities-d20). Don't feel self-conscious, everybody has them and with the right decorations they might even be quite fetching.
 
 Finally, roll for their **age** (2d20+10).
 
@@ -105,14 +105,14 @@ A pauper, born of violence and struggle. Born to the extremely poor, or those wh
 |3      |Charlatan |6          |Line Infantry |9 |Actor      |12  |Gambler   |
 
 ### Clear
-A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or you're deeply loyal to an obstensibly independent institution.
+A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or you're deeply loyal to an ostensibly independent institution.
 
 #### Backgrounds (d12)
 
 |||||||||
 |------|--------------------|---|--------------|--|------------|----|-------------|
 |1     |Agent of the Crown  |4  |Wagoner       |7 |Barbarian   |10  |Horse trader |
-|2     |Agent of the Church |5  |Hunter        |8 |Slave       |11  |Vetreanarian |
+|2     |Agent of the Church |5  |Hunter        |8 |Slave       |11  |Veterinarian |
 |3     |Farmer              |6  |Line Infantry |9 |Thief-taker |12  |Nomad        |
 
 ### Green
@@ -134,12 +134,12 @@ A burgher, born to new wealth and new ideas. You (or your parents) owned your pr
 
 |||||||||
 |------|-----------|---|--------------|--|------------  |----|-------------|
-|1     |Soliciter  |4  |Officer        |7 |Entrepreneur |10  |Politician   |
+|1     |Solicitor  |4  |Officer        |7 |Entrepreneur |10  |Politician   |
 |2     |Doctor     |5  |Silversmith    |8 |Artist       |11  |Publisher    |
 |3     |Banker     |6  |Landlord       |9 |Engineer     |12  |Merchant     |
 
 ### Blue
-A noble, born in the lap of privledge and power. While not all nobles are wealthy, they most certainly must act like they are. Working with your hands was socially taboo, if not outright illegal.
+A noble, born in the lap of privilege and power. While not all nobles are wealthy, they most certainly must act like they are. Working with your hands was socially taboo, if not outright illegal.
 
 
 #### Backgrounds (d12)
@@ -147,7 +147,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |||||||||
 |------|-----------|---|----------|--|------------|----|-------------|
 |1     |Socialite  |4  |Duelist   |7 | Academic   |10  |Astrologer   |
-|2     |Arist      |5  |Writer    |8 | Coral Lord |11  |Antiquarian  |
+|2     |Artist      |5  |Writer    |8 | Coral Lord |11  |Antiquarian  |
 |3     |Falconer   |6  |Officer   |9 | Equestrian |12  |Student      |
 
 ## Character Traits (d10)
@@ -256,10 +256,10 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 
 |||||||||
 |------|--------|---|-----------------|---|-----------------------|---|------------|
-|1     |Horns   |6  |Antenae          |11 |Animal Ears            |16 |Feathers    |
+|1     |Horns   |6  |Antennae          |11 |Animal Ears            |16 |Feathers    |
 |2     |Scales  |7  |Reptilian tongue |12 |Pointed Ears           |17 |Antlers     |
-|3     |Tail    |8  |Supernatural Aura|13 |Biolumenecent Patterns |18 |Spots       |
-|4     |Paws    |9  |Fur              |14 |Crystaline Protrusions |19 |Tenatacles  |
+|3     |Tail    |8  |Supernatural Aura|13 |Bioluminescent Patterns |18 |Spots       |
+|4     |Paws    |9  |Fur              |14 |Crystalline Protrusions |19 |Tentacles  |
 |5     |Beak    |10 |Fangs            |15 |Webbed Hands and Feat  |20 |Stripes     |
 
 <p></p>
@@ -271,7 +271,7 @@ A noble, born in the lap of privledge and power. While not all nobles are wealth
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| None  | Leather Boots | Overcoat | Cuirass |
 
 #### Helmets & Shields
 

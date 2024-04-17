@@ -15,7 +15,7 @@ nav_order: 6
 | Overcoat (1 Armor, bulky)        |
 | Leather Boots (+1 Armor)              |
 | Military Hat                |
-| War Trauma (_Phobia_ after a 10 minute conversionation)
+| War Trauma (_Phobia_ after a 10 minute conversation)
 
 ### Duelist
 
@@ -94,7 +94,7 @@ nav_order: 6
 |Pocketed Cloak                           |
 |Leycap (x2, see **Relics**)              |
 
-### Burgler
+### Burglar
 
 ||
 |-----------------------------------------|
