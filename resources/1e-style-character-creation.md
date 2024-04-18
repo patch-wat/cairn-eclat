@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Character Creation
-parent: SRD
+title: Character Creation (Old)
+parent: Resources
 nav_order: 4
 ---
 
@@ -50,7 +50,7 @@ Roll once on each of the **Starting Gear** tables to determine your PC's armor, 
 
 See the [**Equipment List**](/srd/05-Equipment-List.md) for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](/srd/06-Gear-Packages.md).
+If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](/resources/1e-style-gear-packages.md).
 
 <p></p>
 

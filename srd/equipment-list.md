@@ -2,7 +2,7 @@
 layout: default
 title: Equipment List
 parent: SRD
-nav_order: 5
+nav_order: 6
 ---
 
 # Equipment List (Prices in Gold Pieces)

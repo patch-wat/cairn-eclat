@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Magic and Magical Items
+grand_parent: SRD
 title: Mutations
 nav_order: 2
 ---

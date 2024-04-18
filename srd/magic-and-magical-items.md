@@ -3,7 +3,7 @@ layout: default
 title: Magic and Magical Items
 parent: SRD
 has_children: true
-nav_order: 8
+nav_order: 
 ---
 
 # Magic and Magical Items
