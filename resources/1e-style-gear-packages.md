@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Gear Packages
-parent: SRD
-nav_order: 6
+parent: Resources
 ---
 
 # Optional Gear Packages
