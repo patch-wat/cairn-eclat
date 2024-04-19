@@ -14,7 +14,7 @@ Next roll for, or choose, your PCs __Blood__, or social class, from the table be
 
 Then roll a d20 or select a Profession. These come with some items that you still have from your old life. Add them to your [Inventory](#inventory)
 
-Finally, roll or select your __Knack__ (d6). A __Knack__ is an ability your PC possesses either through fortune, skill or magical mutation that doesn't take up an inventory slot. They cannot be gained nor gotten done away with.
+Finally, circumstances or lineage has warped your body or soul from human standard (such that it exists), roll or select your [__Mutation__](/srd/magic/mutations.md)(d6) for your blood.
 
 If none of the professions or knacks interest you, feel free to, with the help of The Warden, design your own.
 
@@ -57,9 +57,10 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 
 ### Starting Gear
 Each player starts with
-- 3d6 Gold Pieces
+- 3d6 Gold Pieces (petty)
 - Rations (3 uses)
-- A Lantern and Oil
+- A Lantern
+- Lantern Oil (petty)
 - The items they still have from their old __Profession__
 
 ## Name (d20)

@@ -11,11 +11,11 @@ const matchingRegex = (regex)=>{
 }
 
 const bloodSummary = {
-  "Blue": "a noble, born in the lap of privilege and power",
+  "Blue": "a noble, born in the lap of privledge and power",
   "Crimson": "a pauper, born of violence and struggle",
   "Green": "an artisan, born to humble folk",
   "Silver": "a burgher, born to new wealth and new ideas",
-  "Clear": "an outsider, raised outside of the concerns of social class"
+  "Clear": "an outsider, raised outside of the conserns of social class"
 }
 
 const jobIntroText = {
@@ -29,15 +29,19 @@ const jobIntroText = {
 
 const blood = generate_text("blood");
 const bloodlc = blood.toLowerCase()
-const [job, ...jobEquipmentAndMutations]= generate_text(bloodlc+"-job").split('|');
+const [job, ...jobEquipmentAndMutations]= generate_text(bloodlc+"Job").split('|');
 
-const bloodMutation = generate_text(bloodlc+"-mut");
+const bloodMutations = [generate_text(bloodlc+"Mutation")];
+if (bloodMutations[0].includes("Not So Different")){
+  const notSoDifferent = generate_text("not-so-different-bonus-mut")
+  bloodMutations.push(notSoDifferent)
+}
 
 const jobMutations = jobEquipmentAndMutations
   .filter((s)=>s.startsWith("MUTATION;"))
   .map(s=>s.split(';')[1])
 
-const mutations = [bloodMutation, ...jobMutations].map(s=>{
+const mutations = [...bloodMutations, ...jobMutations].map(s=>{
   const [title, desc] = s.split("-");
   return `<b>${title}</b> -  ${desc}`
 })
@@ -62,9 +66,9 @@ const bloodDesc = `I am ${blood}-blooded; ${bloodSummary[blood]}`
 const intro = `I am <i> ${generate_text("name")} ${generate_text("surname")}</i>`
 
 const deformities = [...new Set([
-  generate_text("magical deformities 1st person"),
-  generate_text("magical deformities 1st person"),
-  generate_text("magical deformities 1st person"),
+  generate_text("magical deformities"),
+  generate_text("magical deformities"),
+  generate_text("magical deformities"),
 ])].join(". ")
 
 const character = `${intro}. ${bloodDesc}. ${description}`;

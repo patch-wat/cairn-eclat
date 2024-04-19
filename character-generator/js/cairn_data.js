@@ -385,7 +385,7 @@ gen_data['blood'] = {
   "34-36": "Blue",
 }
 
-gen_data['blue-job'] = [
+gen_data['blueJob'] = [
   "a Pixier|a loyal hunting pixie (2HP, d4 tiny fists, comes back to life on a full moon)|a map of local game grounds"
   ,"a Coral Lord's Apprentice | Grimjelly ({grimjelly} stollen)|a guide to the collective unconscious"
   ,"a Duelist |a dueling pistol (d4, loud). My sibling has the other|a lucky locket (_Shield_ 1/day)"
@@ -407,7 +407,7 @@ gen_data['blue-job'] = [
   ,'a Layabout|an "artbook"|a poorly drawn sketches|absurdly comfortable clothes'
   ,"an Artist|an artbook|a sketchbook|hidden graphite|a d6 pencil knife"
 ]
-gen_data["clear-job"]=[
+gen_data["clearJob"]=[
 "a Crown Agent|a signet ring|d6 small sword|a secret letter (petty)",
 "a Cultist|fashionable robes|a Sacred Text Cipher|a d6 heavy Book of Rites",
 "a Plantation Fieldhand|a pitchfork d6 (bulky)|a bundle of kelp",
@@ -430,7 +430,7 @@ gen_data["clear-job"]=[
 "a Pyromantic Acolyte|a Grimjelly (Ignite)|a <i>Dragon Scripture</i>"
 ]
 
-gen_data['crimson-job']=[
+gen_data['crimsonJob']=[
 "an Enchanted Ragman|a bundle of magical scroll scraps|a neckless of many charms|a patchwork cloak",
 "a Voice Thief|a bottled voice|a glove of handle sound|d6 voxknife (twin)|d6 voxknife (twin)",
 "a Faustian Swindler|a quill & ink|a friendly imp (1 HP, can pretend to be a full devil)",
@@ -453,7 +453,7 @@ gen_data['crimson-job']=[
 "a Thieves Tools Wholesaler|a reverse candle (sucks in light when lit)|a hooded cloak|a d6 stiletto",
 ]
 
-gen_data['green-job']=[
+gen_data['greenJob']=[
   "Bat Butcher|bat steaks and wings|a d6 meat cleaver",
   "Pathochemist|liquid courage (literal)|a chemistry set|an emotional disposition",
   "Guild Representative|craftsman's tools|a radical manifesto",
@@ -476,7 +476,7 @@ gen_data['green-job']=[
   "Deepsea Distiller|a bottle of cephalopod whisky|kraken ink|a still (bulky)",
 ]
 
-gen_data['silver-job'] =[
+gen_data['silverJob'] =[
   "Necro-Soliciters|a book of laws (incomplete)|Grimjelly (speak with dead)|donation pale",
   "Mycodoctors|a bag of suspicious mushrooms|bandages|a poisoners kit",
   "Dreambankers|a dreamcatcher|a ledgerbook|soporiphic incense",
@@ -499,51 +499,57 @@ gen_data['silver-job'] =[
   "Frog Cartographers|a swarm of poisonous frogs (4hp, detachment, d4 poison lick)|a bundle of flies|a map of suitable ponds"
 ]
 
-gen_data['blue-mut'] = [
-  "Supernatural Allure-Regardless of my features, in total they work. Makes me memorable",
-  "Fae Blood-I more easily detect lies, but have great difficulty lying.",
-  "Lucid Dreaming-I was taught to lucid dream.",
-  "Human Resource-Hirelings may use my WIL when making morale checks.",
+gen_data['blueMutation'] = [
+  "Supernatural Allure-Regardless of my features, in total, they <i>work</i>. Makes me memorable",
+  "Fae Blood-I more easily detect lies, but have great difficulty lying",
+  "Lucid Dreaming-I know how to lucid dream and am inanely good at it",
+  "Human Resource-Hirelings may use my WIL when making morale saves",
   "Misty Veil-I can create a small veil of mist around myself",
-  "Thought Thief-When my attack deals max damage, I glimpse into the target's thoughts."
+  "Thought Thief-When my attack deals max damage, I glimpse into the target's thoughts"
 ]
 
-gen_data['clear-mut'] = [
+gen_data['clearMutation'] = [
 "Unassuming-Enemies tend to target others before me",
-"Wanderlust-I pick up languages easily",
+"Wanderlust-I have a supernatural knack for picking up languages",
 "It Doesn't Translate-I'm immune to fear effects",
-"Not So Different-Pick from a different Blood's mutations and roll on their table",
+"Not So Different-I gain the mutation of a different Blood",
 "Rooted-It's very difficult to dislodge me from natural ground",
-"Human Dowsing-I know where the nearest water source is."
+"Human Dowsing-You know where the nearest water source is"
 ]
 
-gen_data['crimson-mut']=[
-  "Fate Forgotten-I can lie low to avoid minor consequences (scars, gambling debts, etc) and they'll eventually be forgotten.",
+gen_data['crimsonMutation']=[
+  "Fate Forgotten-If I lie low for a while, minor consequences (scars, small debts, etc) will eventually be forgotten",
   "Slip Away-I have an uncanny ability to escape if I choose to flee",
   "Terrifying Visage-Enemies are more likely to flee. Makes me memorable",
-  "Nightlife-I need to sleep less but when you do you rest for longer",
-  "Iron Stomach-I can ingest almost anything without harm, from rotten food to small amounts of poison.",
-  "Venomous Spittle-My saliva is slightly venomous.",
+  "Nightlife-I need to sleep less but must rest for longer when I do",
+  "Iron Stomach-I can ingest almost anything without harm, from rotten food to small amounts of poison",
+  "Venomous Spittle-My saliva is slightly venomous",
 ]
 
-gen_data['green-mut']=[
-  "Lucky-Can make myself or somebody else reroll a save for a fatigue. Must use new result",
+gen_data['greenMutation']=[
+  "Lucky-Can make myself or somebody else reroll a save for a <b>Fatigue</b>",
   "Likeable-I can gain a fatigue to add 1d4 to a reaction roll",
   "Oblivious-I am immune to charm effects",
-  "Resilient-I can reroll a failed save to resist critical damage once per day. Must use new result",
+  "Resilient-I can reroll a failed save to resist critical damage once per day",
   "Iron Lungs-Can handle smoke and minor toxic gasses with no ill effect and can hold my breath twice as long",
   "Mending Touch-Small damage to items on my person tend to fix over time",
 ]
 
-gen_data['silver-mut'] = [
+gen_data['silverMutation'] = [
   "Payday-I always know the location of nearby jewels and gold",
   "Speculation-When rolling for loot, I can force a reroll of a single dice. I must use the new result",
   "Karmic Contract-Contracts I make seem supernaturally binding. Karma seems to come for those who renege on my deals",
   "Good Bookkeeping-When I avoid critical damage, I may choose to replenish a mundane consumable good",
-  "Money talks-I ignore negative modifiers to reaction rolls when discussing money. ",
-  "Bailout-I permanently break an item in an inventory slot to avoid critical damage. The items must occupy at least one slot",  
+  "Money talks-I ignore negative modifiers to reaction rolls when discussing money",
+  "Bailout-I can permanently break an item to avoid critical damage. The item must occupy at least one slot",  
 ]
 
+gen_data['not-so-different-bonus-mut'] = [
+  "[Blue] {blueMutation}",
+  "[Crimson] {crimsonMutation}",
+  "[Green] {greenMutation}",
+  "[Silver] {silverMutation}",
+]
 gen_data['armor'] = {
   '1-3': 'No upper body protection',
   '4-14': 'Brigandine (1 Armor, bulky)',

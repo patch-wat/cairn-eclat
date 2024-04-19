@@ -37,9 +37,9 @@ From the verdant branches of my ancestry, a peculiar legacy has sprouted within 
 
 |#|Mutation |Effect|
 |------|-----------|-|
-|1| Lucky| Can make myself or somebody else reroll a save for a fatigue. Must use new result
+|1| Lucky| Can make myself or somebody else reroll a save for a fatigue
 |2| Likeable| I can gain a fatigue to add 1d4 to a reaction roll
 |3| Oblivious| I am immune to charm effects
-|4| Resilient| I can reroll a failed save to resist critical damage once per day. Must use new result
+|4| Resilient| I can reroll a failed save to resist critical damage once per day
 |5| Iron Lungs| Can handle smoke and minor toxic gasses with no ill effect and can hold my breath twice as long
 |6| Mending Touch| Small damage to items on my person tend to fix over time

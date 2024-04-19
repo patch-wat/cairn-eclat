@@ -6,7 +6,7 @@ title: Clear Blood
 nav_order: 2
 ---
 # Clear
-A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or I'm deeply loyal to an ostensibly independent institution.
+A outsider, raised in circumstances that leave me disconnected from social class. Perhaps I'm an outlander, or a provincial, or I'm deeply loyal to an ostensibly independent institution. Regardless, there is no community for me where I currently reside.
 
 In a past that now seems like another existence, I held the role of
 
@@ -38,9 +38,9 @@ Destiny's hand has sculpted my fate, gifting me with the rare boon of:
 
 |#|Mutation |Effect|
 |------|-----------|-|
-|1     |Unassuming|Enemies tend to target others before you|
-|2     |Wanderlust|You pick up languages easily|
-|3     |It Doesn't Translate|You're immune to fear effects|
-|4     |Not So Different|You may pick from a different Blood's mutation and roll on their table|
-|5     |Rooted| It's very difficult to dislodge you from natural ground|
-|6     |Human Dowsing| You know where the nearest water source is.|
+|1     |Unassuming|Enemies tend to target others before me|
+|2     |Wanderlust|I have a supernatural knack for picking up languages|
+|3     |It Doesn't Translate|I'm immune to fear effects|
+|4     |Not So Different|I gain the mutation of a different Blood, either selected or determined randomly|
+|5     |Rooted| It's very difficult to dislodge me from natural ground|
+|6     |Human Dowsing| You know where the nearest water source is|

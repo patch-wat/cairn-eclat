@@ -6,7 +6,7 @@ title: Silver Blood
 nav_order: 4
 ---
 # Silver
-A burgher, born to new wealth and new ideas. I (or my parents) owned my practice, or owned the practices of others and were independently wealthy
+A burgher, born to new wealth and new ideas. I (or my family) owned my practice, or owned the practices of others and were independently wealthy.
 
 I hail from a lineage of wealth, my kin having flourished in the trade of
 
@@ -38,8 +38,8 @@ The volatile energies of a fractured artifact have suffused me with an extraordi
 |#|Mutation |Effect|
 |------|-----------|-|
 |1| Payday| I always know the location of nearby jewels and gold|
-|2| Speculation| When rolling for loot, I can force a reroll of a single dice. I must use the new result|
+|2| Speculation| When rolling for loot, I can reroll of a single dice. I must use the new result|
 |3| Karmic Contract| Contracts I make seem supernaturally binding. Karma seems to come for those who renege on my deals|
 |4| Good Bookkeeping| When I avoid critical damage, I may choose to replenish a mundane consumable good|
 |5| Money talks| I ignore negative modifiers to reaction rolls when discussing money|
-|6| Bailout| I permanently break an item in an inventory slot to avoid critical damage. The items must occupy at least one slot|
+|6| Bailout| I can permanently break an item to avoid critical damage. The item must occupy at least one slot|

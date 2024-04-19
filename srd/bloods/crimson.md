@@ -6,7 +6,7 @@ title: Crimson Blood
 nav_order: 1
 ---
 # Crimson
-A pauper, born of violence and struggle. Born to the extremely poor, or those who have to exist outside the law. Growing up in this life has been difficult but has made me hardy
+A pauper and villain, born of violence and struggle. I was raised in extremely poverty, or by those who have to exist outside the law. Growing up in this life has been difficult but has made me wiley.
 
 Before I clawed my way free, I earned my keep as
 
@@ -37,9 +37,9 @@ My form has been altered by the caustic whispers of magical contamination, grant
 
 |#|Mutation |effect|
 |------|-----------|-|
-|1     |Fate Forgotten |I can lie low to avoid minor consequences (scars, gambling debts, etc) and they'll eventually be forgotten.|
+|1     |Fate Forgotten |If I lie low for a while, minor consequences (scars, small debts, etc) will eventually be forgotten|
 |2     |Slip Away    | I have an uncanny ability to escape if I choose to flee|
 |3     |Terrifying Visage | Enemies are more likely to flee. Makes me memorable|
-|4     |Nightlife |I need to sleep less but when you do you rest for longer|
-|5     |Iron Stomach |I can ingest almost anything without harm, from rotten food to small amounts of poison.|
-|6     |Venomous Spittle |My saliva is slightly venomous.|
+|4     |Nightlife |I need to sleep less but must rest for longer when I do|
+|5     |Iron Stomach |I can ingest almost anything without harm, from rotten food to small amounts of poison|
+|6     |Venomous Spittle |My saliva is slightly venomous|

@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # Blue
-A noble, born in the lap of privilege and power. While not all nobles are wealthy, we most certainly must act like we are. Working with my hands was socially taboo, if not outright illegal.
+A noble, born in the lap of privilege and power. While not all nobles are wealthy, expectations are to act like it. Working with my hands is socially taboo, if not outright illegal.
 
 Once, I wiled away the hours engaged in the genteel pursuits of
 
@@ -38,9 +38,9 @@ Centuries of selective lineage and arcane rites have bestowed upon me:
 
 |#|Mutation|Effect|
 |------|-----------|-|
-|1     |Supernatural Allure| Regardless of my features, in total they work. Makes me memorable |
-|2     |Fae Blood| I more easily detect lies, but have great difficulty lying.|
-|3     |Lucid Dreaming | I was taught to lucid dream.|
-|4     |Human Resources| Hirelings may use my WIL when making morale checks.|
+|1     |Supernatural Allure| Regardless of my features, in total, they _work_. Makes me memorable |
+|2     |Fae Blood| I more easily detect lies, but have great difficulty lying|
+|3     |Lucid Dreaming | I know how to lucid dream and am inanely good at it|
+|4     |Human Resources| Hirelings may use my WIL when making morale saves|
 |5     |Misty Veil|I can create a small veil of mist around myself|
-|6     |Thought Thief | When my attack deals max damage, I glimpse into the target's thoughts.|
+|6     |Thought Thief | When my attack deals max damage, I glimpse into the target's thoughts|
