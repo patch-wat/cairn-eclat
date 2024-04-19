@@ -33,7 +33,7 @@ gen_data["magical deformities"] = [
  "You have stripes on your skin"
 ]
 
-gen_data["magical deformities 1st person"] = [
+gen_data["magical deformities 1P"] = [
   "I have horns growing from my head",
   "Patches of scales cover my body",
   "I have a tail",

@@ -66,9 +66,9 @@ const bloodDesc = `I am ${blood}-blooded; ${bloodSummary[blood]}`
 const intro = `I am <i> ${generate_text("name")} ${generate_text("surname")}</i>`
 
 const deformities = [...new Set([
-  generate_text("magical deformities"),
-  generate_text("magical deformities"),
-  generate_text("magical deformities"),
+  generate_text("magical deformities 1P"),
+  generate_text("magical deformities 1P"),
+  generate_text("magical deformities 1P"),
 ])].join(". ")
 
 const character = `${intro}. ${bloodDesc}. ${description}`;
