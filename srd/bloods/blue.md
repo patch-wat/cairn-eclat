@@ -9,7 +9,7 @@ nav_order: 5
 # Blue
 A noble, born in the lap of privilege and power. While not all nobles are wealthy, we most certainly must act like we are. Working with my hands was socially taboo, if not outright illegal.
 
-I used to idle away my time as:
+Once, I wiled away the hours engaged in the genteel pursuits of
 
 |#|Profession |I still have|
 |------|-----------|-|
@@ -34,9 +34,9 @@ I used to idle away my time as:
 |19    |a Layabout|an "artbook", a poorly drawn sketches, absurdly comfortable clothes|
 |20    |an Artist|an artbook, a sketchbook, hidden graphite, a d6 pencil knife|
 
-I've found I could always
+Centuries of selective lineage and arcane rites have bestowed upon me:
 
-|#|Knack |Effect|
+|#|Mutation|Effect|
 |------|-----------|-|
 |1     |Supernatural Allure| Regardless of my features, in total they work. Makes me memorable |
 |2     |Fae Blood| I more easily detect lies, but have great difficulty lying.|

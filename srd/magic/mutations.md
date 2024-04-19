@@ -10,6 +10,9 @@ nav_order: 2
 ### Overview
 Mutations are magical deformities to the body and/or soul of a person that have applications beyond merely cosmetic changes.
 
+### Blood Mutations
+Circumstances or lineage has left you a unique quick on account of your __Blood__ (see page). They cannot be gained or lost but may be further mutated.
+
 ### Acquiring Mutations
 Messing with your phenotype beyond the boundaries of what heaven extended is both costly and draining and requires the services of a  **Mutagenist**. It generally costs a point of WIL, 500gp and an additional 500gp for each mutation you already posses.
 

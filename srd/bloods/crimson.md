@@ -8,7 +8,7 @@ nav_order: 1
 # Crimson
 A pauper, born of violence and struggle. Born to the extremely poor, or those who have to exist outside the law. Growing up in this life has been difficult but has made me hardy
 
-Before I got out, I was
+Before I clawed my way free, I earned my keep as
 
 |#|Profession |I still have|
 |------|-----------|-|
@@ -33,9 +33,9 @@ Before I got out, I was
 |19    |a Curse Dealer |a scroll of hair loss, a scroll of sweaty palms, a scroll of pebble in your shoe.|
 |20    |a Thieves Tools Wholesaler |a reverse candle (sucks in light when lit), a hooded cloak, a d6 stiletto|
 
-I've found I could always
+My form has been altered by the caustic whispers of magical contamination, granting me:
 
-|#|Knack |effect|
+|#|Mutation |effect|
 |------|-----------|-|
 |1     |Fate Forgotten |I can lie low to avoid minor consequences (scars, gambling debts, etc) and they'll eventually be forgotten.|
 |2     |Slip Away    | I have an uncanny ability to escape if I choose to flee|

@@ -407,15 +407,6 @@ gen_data['blue-job'] = [
   ,'a Layabout|an "artbook"|a poorly drawn sketches|absurdly comfortable clothes'
   ,"an Artist|an artbook|a sketchbook|hidden graphite|a d6 pencil knife"
 ]
-gen_data['blue-knack'] = [
-  "Supernatural Allure|Regardless of my features, in total they work. Makes me memorable",
-  "Fae Blood|I more easily detect lies, but have great difficulty lying.",
-  "Lucid Dreaming|I was taught to lucid dream.",
-  "Human Resources|Hirelings may use my WIL when making morale checks.",
-  "Misty Veil|I can create a small veil of mist around myself",
-  "Thought Thief|When my attack deals max damage, I glimpse into the target's thoughts."
-]
-
 gen_data["clear-job"]=[
 "a Crown Agent|a signet ring|d6 small sword|a secret letter (petty)",
 "a Cultist|fashionable robes|a Sacred Text Cipher|a d6 heavy Book of Rites",
@@ -439,15 +430,6 @@ gen_data["clear-job"]=[
 "a Pyromantic Acolyte|a Grimjelly (Ignite)|a <i>Dragon Scripture</i>"
 ]
 
-gen_data['clear-knack'] = [
-"Unassuming|Enemies tend to target others before you",
-"Wanderlust|You pick up languages easily",
-"It Doesn't Translate|You're immune to fear effects",
-"Not So Different|You may pick from a different Blood's knacks and roll on their table",
-"Rooted|It's very difficult to dislodge you from natural ground",
-"Human Dowsing|You know where the nearest water source is."
-]
-
 gen_data['crimson-job']=[
 "an Enchanted Ragman|a bundle of magical scroll scraps|a neckless of many charms|a patchwork cloak",
 "a Voice Thief|a bottled voice|a glove of handle sound|d6 voxknife (twin)|d6 voxknife (twin)",
@@ -469,34 +451,6 @@ gen_data['crimson-job']=[
 "a Back-alley Biohacker|MUTATION;{mutation}|portable incubator|a scroll of Infect Creature",
 "a Curse Dealer|a scroll of hair loss|a scroll of sweaty palms|a scroll of pebble in your shoe.",
 "a Thieves Tools Wholesaler|a reverse candle (sucks in light when lit)|a hooded cloak|a d6 stiletto",
-]
-
-gen_data['crimson-knack']=[
-  "Fate Forgotten|I can lie low to avoid minor consequences (scars, gambling debts, etc) and they'll eventually be forgotten.",
-  "Slip Away|I have an uncanny ability to escape if I choose to flee",
-  "Terrifying Visage|Enemies are more likely to flee. Makes me memorable",
-  "Nightlife|I need to sleep less but when you do you rest for longer",
-  "Iron Stomach|I can ingest almost anything without harm, from rotten food to small amounts of poison.",
-  "Venomous Spittle|My saliva is slightly venomous.",
-]
-
-gen_data['green-knack']=[
-  "Lucky|Can make myself or somebody else reroll a save for a fatigue. Must use new result",
-  "Likeable|I can gain a fatigue to add 1d4 to a reaction roll",
-  "Oblivious|I am immune to charm effects",
-  "Resilient|I can reroll a failed save to resist critical damage once per day. Must use new result",
-  "Iron Lungs|Can handle smoke and minor toxic gasses with no ill effect and can hold my breath twice as long",
-  "Mending Touch|Small damage to items on my person tend to fix over time",
-]
-
-gen_data['silver-knack'] = [
-  "Payday|I always know the location of nearby jewels and gold",
-  "Speculation|When rolling for loot, I can force a reroll of a single dice. I must use the new result",
-  "Karmic Contract|Contracts I make seem supernaturally binding. Karma seems to come for those who renege on my deals",
-  "Good Bookkeeping|When I avoid critical damage, I may choose to replenish a mundane consumable good",
-  "Money talks|I ignore negative modifiers to reaction rolls when discussing money. ",
-  "Bailout|I permanently break an item in an inventory slot to avoid critical damage. The items must occupy at least one slot",
-  
 ]
 
 gen_data['green-job']=[
@@ -543,6 +497,51 @@ gen_data['silver-job'] =[
   "Ghostwood Luthiers|a d6 violin|ghost of a nosy ancestor (4 hp)",
   "Fairy Dust Merchants|a vial of fairy dust|cold iron net ",
   "Frog Cartographers|a swarm of poisonous frogs (4hp, detachment, d4 poison lick)|a bundle of flies|a map of suitable ponds"
+]
+
+gen_data['blue-mut'] = [
+  "Supernatural Allure-Regardless of my features, in total they work. Makes me memorable",
+  "Fae Blood-I more easily detect lies, but have great difficulty lying.",
+  "Lucid Dreaming-I was taught to lucid dream.",
+  "Human Resource-Hirelings may use my WIL when making morale checks.",
+  "Misty Veil-I can create a small veil of mist around myself",
+  "Thought Thief-When my attack deals max damage, I glimpse into the target's thoughts."
+]
+
+gen_data['clear-mut'] = [
+"Unassuming-Enemies tend to target others before me",
+"Wanderlust-I pick up languages easily",
+"It Doesn't Translate-I'm immune to fear effects",
+"Not So Different-Pick from a different Blood's mutations and roll on their table",
+"Rooted-It's very difficult to dislodge me from natural ground",
+"Human Dowsing-I know where the nearest water source is."
+]
+
+gen_data['crimson-mut']=[
+  "Fate Forgotten-I can lie low to avoid minor consequences (scars, gambling debts, etc) and they'll eventually be forgotten.",
+  "Slip Away-I have an uncanny ability to escape if I choose to flee",
+  "Terrifying Visage-Enemies are more likely to flee. Makes me memorable",
+  "Nightlife-I need to sleep less but when you do you rest for longer",
+  "Iron Stomach-I can ingest almost anything without harm, from rotten food to small amounts of poison.",
+  "Venomous Spittle-My saliva is slightly venomous.",
+]
+
+gen_data['green-mut']=[
+  "Lucky-Can make myself or somebody else reroll a save for a fatigue. Must use new result",
+  "Likeable-I can gain a fatigue to add 1d4 to a reaction roll",
+  "Oblivious-I am immune to charm effects",
+  "Resilient-I can reroll a failed save to resist critical damage once per day. Must use new result",
+  "Iron Lungs-Can handle smoke and minor toxic gasses with no ill effect and can hold my breath twice as long",
+  "Mending Touch-Small damage to items on my person tend to fix over time",
+]
+
+gen_data['silver-mut'] = [
+  "Payday-I always know the location of nearby jewels and gold",
+  "Speculation-When rolling for loot, I can force a reroll of a single dice. I must use the new result",
+  "Karmic Contract-Contracts I make seem supernaturally binding. Karma seems to come for those who renege on my deals",
+  "Good Bookkeeping-When I avoid critical damage, I may choose to replenish a mundane consumable good",
+  "Money talks-I ignore negative modifiers to reaction rolls when discussing money. ",
+  "Bailout-I permanently break an item in an inventory slot to avoid critical damage. The items must occupy at least one slot",  
 ]
 
 gen_data['armor'] = {

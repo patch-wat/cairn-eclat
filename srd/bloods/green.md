@@ -8,7 +8,7 @@ nav_order: 3
 # Green
 An artisan or laborer, born to humble folk. I had as ordinary an upbringing as any.
 
-I used to be an apprentice
+My youth was shaped by the craft and toil of an apprentice
 
 |#|Profession |I still have|
 |------|-----------|-|
@@ -20,7 +20,7 @@ I used to be an apprentice
 6| Perfumer| d6 blast noxious perfume, a perfumer's tool kit, an assortment of flowers
 7| Naiad Pearl Diver| a rebreather, a d6 oyster knife, a soggy love letter
 8| Exotic Foods Chef| d6 Chefs knife, a pot shield (+1 armor), a bottle of kraken ink
-9| Warpwagon Mechanic| woodworking tools, d8 Power Malet (bulky), 
+9| Warpwagon Mechanic| woodworking tools, d8 Power Mallet (bulky), 
 10| Pest Exterminator| d6 power-sprayer (blast, bulky, breathing), gas-mask, pocket sand, imp bait
 11| Musketeer| Military Boots (+1 armor), a d6 musket w/ bayonet (loud, bulky), War Trauma (Phobia after a 10 minute conversation) 
 12| Taxidermist| ectoplasm resin, preservation charms, a d8 Ghost hammer (slain creature's ghost fights for you with 1 HP)
@@ -33,9 +33,9 @@ I used to be an apprentice
 19| Fungus Vendor| a sampling pack of mushrooms, d6 fungus knife, An autohumidifier 
 20| Deepsea Distiller| a bottle of cephalopod whisky, kraken ink, a still (bulky)
 
-I've found I could always
+From the verdant branches of my ancestry, a peculiar legacy has sprouted within me:
 
-|#|Knack |Effect|
+|#|Mutation |Effect|
 |------|-----------|-|
 |1| Lucky| Can make myself or somebody else reroll a save for a fatigue. Must use new result
 |2| Likeable| I can gain a fatigue to add 1d4 to a reaction roll

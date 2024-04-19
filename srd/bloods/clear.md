@@ -8,7 +8,7 @@ nav_order: 2
 # Clear
 A outsider, raised in circumstances that leave you disconnected from social class. Perhaps an outlander, or a provincial, or I'm deeply loyal to an ostensibly independent institution.
 
-In another life, I was a
+In a past that now seems like another existence, I held the role of
 
 |#|Profession |I still have|
 |------|-----------|-|
@@ -34,13 +34,13 @@ In another life, I was a
 |20    |a Pyromantic Acolyte|a Grimjelly (Ignite), a _Dragon Scripture_
 |
 
-I've found I could always
+Destiny's hand has sculpted my fate, gifting me with the rare boon of:
 
-|#|Knack |Effect|
+|#|Mutation |Effect|
 |------|-----------|-|
 |1     |Unassuming|Enemies tend to target others before you|
 |2     |Wanderlust|You pick up languages easily|
 |3     |It Doesn't Translate|You're immune to fear effects|
-|4     |Not So Different|You may pick from a different Blood's knacks and roll on their table|
+|4     |Not So Different|You may pick from a different Blood's mutation and roll on their table|
 |5     |Rooted| It's very difficult to dislodge you from natural ground|
 |6     |Human Dowsing| You know where the nearest water source is.|

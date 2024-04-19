@@ -19,11 +19,11 @@ const bloodSummary = {
 }
 
 const jobIntroText = {
-  "Blue": "I used to idle away my time as",
-  "Crimson": "Before I got out, I was",
-  "Green": "I was an apprentice",
-  "Silver": "My family made their fortunes as",
-  "Clear": "In another life, I was"
+  "Blue": "Once, I wiled away the hours engaged in the genteel pursuits of",
+  "Crimson": "Before I clawed my way free, I earned my keep as",
+  "Green": "My youth was shaped by the craft and toil of an apprentice",
+  "Silver": "I hail from a lineage of wealth, my kin having flourished in the trade of",
+  "Clear": "In a past that now seems like another existence, I held the role of"
 }
 
 
@@ -31,13 +31,16 @@ const blood = generate_text("blood");
 const bloodlc = blood.toLowerCase()
 const [job, ...jobEquipmentAndMutations]= generate_text(bloodlc+"-job").split('|');
 
-const [knackTitle, knackDesc] = generate_text(bloodlc+"-knack").split('|');
-const knack = `<b>${knackTitle}</b> - ${knackDesc}`
+const bloodMutation = generate_text(bloodlc+"-mut");
 
-const mutations = jobEquipmentAndMutations
+const jobMutations = jobEquipmentAndMutations
   .filter((s)=>s.startsWith("MUTATION;"))
   .map(s=>s.split(';')[1])
 
+const mutations = [bloodMutation, ...jobMutations].map(s=>{
+  const [title, desc] = s.split("-");
+  return `<b>${title}</b> -  ${desc}`
+})
 const startingGold = roll(6)+roll(6)+roll(6)
 const baseStartingEquipment = ["Rations (3 days)", "Lantern", "Lantern Oil (petty)", `${startingGold} gold pieces (petty)`]
 const jobEquipment = jobEquipmentAndMutations.filter(s=>!s.startsWith("MUTATION;"));
@@ -65,24 +68,25 @@ const deformities = [...new Set([
 ])].join(". ")
 
 const character = `${intro}. ${bloodDesc}. ${description}`;
-const jobText = `${jobIntroText[blood]} <b>${job}</b>`
 
-console.log(mutations)
+let jobFormatted = `<b>${job}</b>`
+// need special formatting if job title has an article (a/an)
+
+if (job.startsWith("a ") || job.startsWith("an ")){
+  const [article, ...jobTitleArr] = job.split(" ");
+  jobFormatted = `${article} <b>${jobTitleArr.join(" ")}</b>`
+}
+const jobText = `${jobIntroText[blood]} ${jobFormatted}`
 
 $("#character").html(character);
 $("#deformities").html(deformities);
 $("#job").html(jobText)
-$('#knack').html(knack)
 $("#age").html(roll(20) + roll(20) + 10);
 $("#hp").html(roll(6));
 ["str", "dex", "wil"].forEach((item, i) => {
 $("#" + item).html(roll(6) + roll(6) + roll(6));});
 $("#equipment").html(equipment.join("<br/>"));
-if (mutations.length > 0){
-  mutDiv = $("#mutations")
-  mutDiv.append("<h3>Mutations</h3>")
-  mutDiv.append(`<span id="muts">${mutations.join("<br/>")}</span>`) 
-}
+$("#mutations").html(mutations.join('<br/>'));
 $("#armorTotal").html(armor);
 $("#total").html(usedInventorySlots);
 $("#maxInventorySlots").html(maxInventorySlots)

@@ -8,7 +8,7 @@ nav_order: 4
 # Silver
 A burgher, born to new wealth and new ideas. I (or my parents) owned my practice, or owned the practices of others and were independently wealthy
 
-My family made their fortunes as
+I hail from a lineage of wealth, my kin having flourished in the trade of
 
 |#|Profession |I still have|
 |------|-----------|-|
@@ -33,9 +33,9 @@ My family made their fortunes as
 |19| Fairy Dust Merchants | a vial of fairy dust, cold iron net |
 |20| Frog Cartographers| a swarm of poisonous frogs (4hp detachment, d4 poison lick), a lot of flies, a map of suitable ponds |
 
-I've found I could always
+The volatile energies of a fractured artifact have suffused me with an extraordinary trait:
 
-|#|Knack |Effect|
+|#|Mutation |Effect|
 |------|-----------|-|
 |1| Payday| I always know the location of nearby jewels and gold|
 |2| Speculation| When rolling for loot, I can force a reroll of a single dice. I must use the new result|
