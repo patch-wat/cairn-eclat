@@ -46,7 +46,7 @@ const mutations = [...bloodMutations, ...jobMutations].map(s=>{
   return `<b>${title}</b> -  ${desc}`
 })
 const startingGold = roll(6)+roll(6)+roll(6)
-const baseStartingEquipment = ["Rations (3 days)", "Lantern", "Lantern Oil (petty)", `${startingGold} gold pieces (petty)`]
+const baseStartingEquipment = ["Rations (3 days)", "Lantern & Oil", `${startingGold} gold pieces (petty)`]
 const jobEquipment = jobEquipmentAndMutations.filter(s=>!s.startsWith("MUTATION;"));
 const equipment = [...baseStartingEquipment, ...jobEquipment]
 const usedInventorySlots = equipment.reduce((acc, cur)=>{

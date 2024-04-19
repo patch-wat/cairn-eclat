@@ -59,8 +59,7 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 Each player starts with
 - 3d6 Gold Pieces (petty)
 - Rations (3 uses)
-- A Lantern
-- Lantern Oil (petty)
+- Lantern & Oil
 - The items they still have from their old __Profession__
 
 ## Name (d20)
