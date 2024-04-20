@@ -3,7 +3,7 @@ layout: default
 title: Magic and Magical Items
 parent: SRD
 has_children: true
-nav_order: 
+nav_order: 8
 ---
 
 # Magic and Magical Items
@@ -22,7 +22,7 @@ Each **Grimjelly** contain a single spell and take up one slot. It takes years t
 - They disappear after one use.
 
 ## Casting Spells
-Anyone can cast a spell by holding a **Grimjelly** in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Grimjelly, injury, and even death.
+Anyone can cast a spell by holding a **Grimjelly** in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Grimjelly, [Magimorphosis](/srd/magic/magimorphosis.md), injury, and even death.
 
 ## Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
